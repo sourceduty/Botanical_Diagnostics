@@ -1,4 +1,4 @@
-![Botanical Diagnostics](https://github.com/user-attachments/assets/32ec7e97-cada-48e6-9b6d-84f144258809)
+![Botanical Diagnostics](https://github.com/user-attachments/assets/e420c84f-dbe3-4cb8-a106-8ce389950752)
 
 > Diagnose plant life and tree health.
 
@@ -9,6 +9,10 @@
 In addition to diagnosing plant issues, Botanical Diagnostics assists users in monitoring plant nutrition and soil conditions. It provides recommendations on how to address deficiencies or imbalances that may be hindering plant growth. Users can also seek advice on managing pests, diseases, and environmental stresses, with the GPT offering practical, research-based solutions to restore plant vitality. For more advanced or ambiguous cases, it may recommend consulting with specialists or using specific testing methods, such as DNA analysis or biochemical tests, to gain deeper insights.
 
 This GPT is accessible and user-friendly, employing a step-by-step, multiple-choice process to help users navigate their plant care concerns. It caters to gardeners, farmers, and plant enthusiasts at all levels, ensuring that its advice is concise and easy to implement. Whether the user is looking to resolve immediate plant problems or prevent future damage, Botanical Diagnostics offers clear, practical steps for maintaining healthy, thriving plants.
+
+#
+
+![Botanical Diagnostics](https://github.com/user-attachments/assets/32ec7e97-cada-48e6-9b6d-84f144258809)
 
 #
 ### Related Links
