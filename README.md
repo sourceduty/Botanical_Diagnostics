@@ -1,4 +1,4 @@
-![Botanical Diagnostics](https://github.com/user-attachments/assets/e420c84f-dbe3-4cb8-a106-8ce389950752)
+![Botanical Diagnostics](https://github.com/user-attachments/assets/32ec7e97-cada-48e6-9b6d-84f144258809)
 
 > Diagnose plant life and tree health.
 
@@ -11,8 +11,7 @@ In addition to diagnosing plant issues, Botanical Diagnostics assists users in m
 This GPT is accessible and user-friendly, employing a step-by-step, multiple-choice process to help users navigate their plant care concerns. It caters to gardeners, farmers, and plant enthusiasts at all levels, ensuring that its advice is concise and easy to implement. Whether the user is looking to resolve immediate plant problems or prevent future damage, Botanical Diagnostics offers clear, practical steps for maintaining healthy, thriving plants.
 
 #
-
-![Botanical Diagnostics](https://github.com/user-attachments/assets/32ec7e97-cada-48e6-9b6d-84f144258809)
+![Slimetree](https://github.com/user-attachments/assets/61869936-7dfe-48cb-918d-34aeb6969fb1)
 
 #
 ### Related Links
