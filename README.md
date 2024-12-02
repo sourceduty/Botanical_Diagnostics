@@ -21,6 +21,8 @@ This GPT is accessible and user-friendly, employing a step-by-step, multiple-cho
 [Tree Identity](https://github.com/sourceduty/Tree_Identity)
 <br>
 [Plant Food Creator](https://github.com/sourceduty/Plant_Food_Creator)
+<br>
+[Bud Business](https://github.com/sourceduty/Bud_Business)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
